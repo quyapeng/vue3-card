@@ -8,8 +8,9 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue'
-const title = ref('Hello')
+import { ref } from "vue";
+const title = ref("Hello");
+// console.log(import?.meta?.NODE_ENV);
 </script>
 
 <style>

@@ -1,5 +1,6 @@
 import { ROUTERS } from "@/utils/index";
 import { TOKEN, Pages } from "@/constant/common";
+const { VUE_APP_BASE_URL } = process.env;
 const config = {
   baseUrl: VUE_APP_BASE_URL,
   timeout: 15000,

@@ -4,3 +4,4 @@ export const Pages = {
   LOGIN: "/pages/login/index",
 };
 export const TOKEN = "token";
+export const NODE_LOG = "environmentLog";

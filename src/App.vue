@@ -6,7 +6,6 @@ onLaunch(() => {
 });
 onShow(() => {
   console.log("App Show");
-  // update();
   updateApp();
 });
 onHide(() => {
